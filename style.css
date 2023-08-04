@@ -1,0 +1,20 @@
+p{
+font-size:150% 
+}
+h1,h2{
+    font-weight: 600;
+    line-height: 1.3;
+    color: blue
+}
+a {
+    color: darkblue;
+}
+u{
+	color:black
+}
+form{
+	background-color:yellow
+}
+img{
+	 background: transparent;
+}
